@@ -21,3 +21,5 @@ https://github.com/Cchristineee/Dice_Roller/assets/87954742/678896be-a65d-40e1-8
 # Roll Length: 
 Increase or discrease the speed of your rolls using the clock button in the menu bar next to the roll button 
 
+https://github.com/Cchristineee/Dice_Roller/assets/87954742/06abbb63-7e4b-488e-8df2-9ea7ff342b15
+
